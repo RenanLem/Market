@@ -2,7 +2,7 @@
   "name": "Mercado — Lista Inteligente",
   "short_name": "Mercado",
   "description": "Lista de compras com histórico de preços e comparador",
-  "start_url": "/mercado.html",
+  "start_url": "/market.html",
   "display": "standalone",
   "background_color": "#0e0f11",
   "theme_color": "#0e0f11",
